@@ -3,6 +3,6 @@ public class main {
 	public static void main (String[] args) {
 	
 		System.out.println ("Segundo commit - hugo");
-		System.out.println ("Tericeiro commit - hugo);
+		System.out.println ("Tericeiro commit - hugo");
 	}
 }
